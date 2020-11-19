@@ -351,6 +351,6 @@ MigrationBackup/
 
 *.json
 
-# bin #
-bin/*
-obj/*
+# bin
+bin/
+obj/

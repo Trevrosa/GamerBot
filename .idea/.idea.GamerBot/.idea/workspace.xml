@@ -14,8 +14,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a2f5e8-dd20-4d86-ba7f-28cb2eb02cf2" name="Default Changelist" comment="ok">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/GamerBot.1.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/AngleSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/ConcurrentCollections.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/DSharpPlus.CommandsNext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/DSharpPlus.Interactivity.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/DSharpPlus.VoiceNext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/DSharpPlus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/Emzi0767.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/GamerBot.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/YoutubeExplode.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/runtimes/win-x64/native/libopus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/runtimes/win-x64/native/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/runtimes/win-x86/native/libopus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/runtimes/win-x86/native/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/GamerBot.1.0.0.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/GamerBot.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CoinHub/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CoinHub/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CoinHub/v16/.suo" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/nuget.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/GamerBot.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/GamerBot.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +81,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.json" />
       </list>
     </option>
   </component>
@@ -45,6 +95,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,6 +105,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605779508680</updated>
-      <workItem from="1605779514428" duration="1612000" />
+      <workItem from="1605779514428" duration="2298000" />
     </task>
     <task id="LOCAL-00001" summary="ka">
       <created>1605780010444</created>
@@ -126,6 +178,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="ka" />
     <MESSAGE value="ba" />
@@ -137,10 +190,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1605781854925" />
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605781676141">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605781864130">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605781676141" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605781864130" />
     <state x="761" y="486" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605781364320">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

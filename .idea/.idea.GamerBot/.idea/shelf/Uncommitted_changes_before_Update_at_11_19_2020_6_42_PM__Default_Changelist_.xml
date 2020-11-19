@@ -1,0 +1,174 @@
+﻿<changelist name="Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]" date="1605782618774" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/19/2020 6:42 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/Microsoft.Extensions.Logging.Abstractions.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/Newtonsoft.Json.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/Newtonsoft.Json.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/Emzi0767.Common.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/Emzi0767.Common.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/CoinHub/v16/.suo" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.genruntimeconfig.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.genruntimeconfig.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/GamerBot.1.0.0.nupkg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.1.0.0.nupkg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/DSharpPlus.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/DSharpPlus.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/DSharpPlus.CommandsNext.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/DSharpPlus.CommandsNext.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/CoinHub/DesignTimeBuild/.dtbcache.v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/AngleSharp.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/AngleSharp.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/runtimes/win-x86/native/libsodium.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/libsodium.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/GamerBot.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/GamerBot.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.csproj.CopyComplete" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.csproj.CopyComplete" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.csprojAssemblyReference1.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/ConcurrentCollections.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/ConcurrentCollections.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/DSharpPlus.VoiceNext.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/DSharpPlus.VoiceNext.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/apphost.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/apphost.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/runtimes/win-x64/native/libopus.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/libopus.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/YoutubeExplode.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/YoutubeExplode.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/runtimes/win-x64/native/libsodium.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/libsodium1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/runtimes/win-x86/native/libopus.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/libopus1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/Microsoft.Extensions.DependencyInjection.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/DSharpPlus.Interactivity.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/DSharpPlus.Interactivity.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/GamerBot.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bin/Release/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/System.Runtime.CompilerServices.Unsafe.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="obj/Release/netcoreapp3.1/GamerBot.csproj.CoreCompileInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2020_6_42_PM_[Default_Changelist]/GamerBot.csproj.CoreCompileInputs.cache" />
+  </binary>
+</changelist>

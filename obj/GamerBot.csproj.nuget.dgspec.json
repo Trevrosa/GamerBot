@@ -26,7 +26,8 @@
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {}
+          "https://nuget.emzi0767.com/api/v3/index.json": {},
+          "https://nuget.pkg.github.com/Trevrosa/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
