@@ -351,6 +351,7 @@ MigrationBackup/
 
 # PLS
 config.json
+nuget.config
 
 # bin
 bin/
