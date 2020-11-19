@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a2f5e8-dd20-4d86-ba7f-28cb2eb02cf2" name="Default Changelist" comment="WIN">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a0a2f5e8-dd20-4d86-ba7f-28cb2eb02cf2" name="Default Changelist" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605779508680</updated>
-      <workItem from="1605779514428" duration="2641000" />
+      <workItem from="1605779514428" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="ka">
       <created>1605780010444</created>
@@ -118,7 +116,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605782824501</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pls">
+      <created>1605783070139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605783070139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ok">
+      <created>1605783129720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605783129720</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ok">
+      <created>1605783169303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605783169303</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ok">
+      <created>1605783193641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605783193641</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,19 +166,20 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="ka" />
     <MESSAGE value="ba" />
-    <MESSAGE value="ok" />
     <MESSAGE value="WIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIN" />
+    <MESSAGE value="pls" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="225" key="SettingsEditor" timestamp="1605781854925">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1605781854925" />
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605782826098">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605783199323">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605782826098" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605783199323" />
     <state x="761" y="486" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605781364320">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
