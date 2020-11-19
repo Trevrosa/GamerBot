@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a2f5e8-dd20-4d86-ba7f-28cb2eb02cf2" name="Default Changelist" comment="ba" />
+    <list default="true" id="a0a2f5e8-dd20-4d86-ba7f-28cb2eb02cf2" name="Default Changelist" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GamerBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605779508680</updated>
-      <workItem from="1605779514428" duration="1112000" />
+      <workItem from="1605779514428" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="ka">
       <created>1605780010444</created>
@@ -97,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605780020093</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <created>1605781670238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781670238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +129,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="ka" />
     <MESSAGE value="ba" />
-    <option name="LAST_COMMIT_MESSAGE" value="ba" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="225" key="SettingsEditor" timestamp="1605781854925">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1605781854925" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605781676141">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605781676141" />
+    <state x="761" y="486" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605781364320">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="761" y="486" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605781364320" />
   </component>
 </project>
