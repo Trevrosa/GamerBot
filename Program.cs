@@ -1,7 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.Entities;
@@ -71,7 +73,7 @@ namespace GamerBot
                 };
                 this.Client = new DiscordClient(config);
 
-                this.Client.Ready += this.Client_Ready;
+                this.Client.GuildDownloadCompleted += Client_Ready;
 
                 Client.UseInteractivity(new InteractivityConfiguration
                 {
@@ -100,15 +102,40 @@ namespace GamerBot
                 {
                     await Client.DisconnectAsync();
                 };
+                
+                // update status
+                Timer timer = new Timer
+                {
+                    AutoReset = true,
+                    Interval = 15 * 60000,
+                    Enabled = true
+                };
+                timer.Elapsed += StatusUpdate;
+                GC.KeepAlive(timer);
+                timer.Start();
 
                 await Client.ConnectAsync();
 
                 await Task.Delay(-1);
             }
 
-            private async Task Client_Ready(DiscordClient client, ReadyEventArgs e)
+            private void StatusUpdate(object sender, ElapsedEventArgs e)
             {
-                await Client.UpdateStatusAsync(new DiscordActivity($"over N/A shards.", ActivityType.Watching), UserStatus.Online);
+                _ = new Task(async () =>
+                {
+                    await Client.UpdateStatusAsync(new DiscordActivity(
+                            $"over {Client.Guilds.Values.First(x => x.Name.Contains("Coins")).MemberCount} members",
+                            ActivityType.Watching),
+                        UserStatus.Online);
+                });
+            }
+
+            private async Task Client_Ready(DiscordClient sender, GuildDownloadCompletedEventArgs e)
+            {
+                await Client.UpdateStatusAsync(new DiscordActivity(
+                        $"over {e.Guilds.Values.First(x => x.Name.Contains("Coins")).MemberCount} members",
+                        ActivityType.Watching),
+                    UserStatus.Online);
             }
         }
 
