@@ -3,7 +3,6 @@
   <component name="ContentModelStore">
     <e p="C:\Discord Bots\gamer bot" t="IncludeRecursive">
       <e p=".editorconfig" t="Include" />
-      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="config.json" t="Include" />
       <e p="GamerBot.csproj" t="IncludeRecursive" />

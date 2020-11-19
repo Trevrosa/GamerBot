@@ -1,0 +1,80 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Discord Bots\\gamer bot\\GamerBot.csproj",
+    "projectName": "GamerBot",
+    "projectPath": "C:\\Discord Bots\\gamer bot\\GamerBot.csproj",
+    "outputPath": "C:\\Discord Bots\\gamer bot\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://nuget.emzi0767.com/api/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "DSharpPlus": {
+          "target": "Package",
+          "version": "[4.0.0-nightly-00748, )"
+        },
+        "DSharpPlus.CommandsNext": {
+          "target": "Package",
+          "version": "[4.0.0-nightly-00748, )"
+        },
+        "DSharpPlus.Interactivity": {
+          "target": "Package",
+          "version": "[4.0.0-nightly-00748, )"
+        },
+        "DSharpPlus.VoiceNext": {
+          "target": "Package",
+          "version": "[4.0.0-nightly-00748, )"
+        },
+        "DSharpPlus.VoiceNext.Natives": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "Emzi0767.Common": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "YoutubeExplode": {
+          "target": "Package",
+          "version": "[5.1.8, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
